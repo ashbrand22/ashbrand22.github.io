@@ -1,0 +1,69 @@
+
+
+/* Main webpage styling */
+body {
+    background-color: #F8F5ED;
+    margin: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #263D32;
+    color: #E9DFC9;
+    text-align: center;
+    padding: 30px;
+}
+
+/* Main heading */
+h1 {
+    color: #B69A58;
+    font-family: Georgia, serif;
+}
+
+/* Other headings */
+h2 {
+    color: #B69A58;
+    font-family: Arial, sans-serif;
+}
+
+/* Paragraph styling */
+p {
+    color: #263D32;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Main content area */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+/* Section styling */
+section {
+    background-color: #E9DFC9;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Link styling */
+a {
+    color: #526B50;
+}
+
+a:hover {
+    color: #B69A58;
+}
+/* CSS Box Model Exercise */
+div {
+    width: 250px;
+    height: 100px;
+    background-color: #E9DFC9;
+    border: 3px solid #263D32;
+    padding: 20px;
+    margin: 30px;
+    color: #263D32;
+    font-family: Arial, sans-serif;
+}
